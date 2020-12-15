@@ -9,6 +9,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="81px" height="20px"/>&nbsp;
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React"/>&nbsp;
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" alt="NodeJS"/>&nbsp;
+
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" alt="Redux"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"/>&nbsp;
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled-components"/>&nbsp;
