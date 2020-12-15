@@ -71,9 +71,10 @@
   src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"
   alt="Angular"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=NestJS&logoColor=white"
-  alt="NestJS"
+  alt="Amazon AWS"
 />&nbsp;
 <img
   src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"
@@ -91,6 +92,7 @@
   src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=Sentry&logoColor=white"
   alt="Sentry"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"
   alt="NGINX"
@@ -107,6 +109,7 @@
   src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"
   alt="Apache%20Cassandra"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"
   alt="Redis"
