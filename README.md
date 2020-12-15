@@ -122,3 +122,11 @@
   src="https://img.shields.io/badge/Ruby%20on%20Rails-CC342D?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"
   alt="Ruby on Rails"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"
+  alt="CircleCI"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
+  alt="Go"
+/>&nbsp;
