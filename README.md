@@ -127,6 +127,6 @@
   alt="CircleCI"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"
-  alt="Go"
+  src="https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=Ember.js&logoColor=white"
+  alt="Ember.js"
 />&nbsp;
