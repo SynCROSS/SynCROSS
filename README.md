@@ -146,3 +146,8 @@
   src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"
   alt="Netlify"
 />&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
+  alt="Vercel"
+/>&nbsp;
