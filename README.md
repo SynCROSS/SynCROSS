@@ -83,11 +83,11 @@
   src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
   alt="Next.js"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
   alt="Svelte"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"
   alt="NGINX"
@@ -101,8 +101,8 @@
   alt="Django"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"
-  alt="Apache%20Cassandra"
+  src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"
+  alt="Cassandra"
 />&nbsp;
 
 <img
@@ -121,11 +121,11 @@
   src="https://img.shields.io/badge/Ruby%20on%20Rails-CC342D?style=flat-square&logo=Ruby%20on%20Rails&logoColor=white"
   alt="Ruby on Rails"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"
   alt="CircleCI"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=Ember.js&logoColor=white"
   alt="Ember.js"
