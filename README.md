@@ -31,7 +31,6 @@
   alt="Python"
 />&nbsp;
 
-
 # List of interests
 
 <img
@@ -50,11 +49,11 @@
   src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"
   alt="Jenkins"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"
   alt="NestJS"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"
   alt="gulp"
@@ -67,11 +66,11 @@
   src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"
   alt="WebAssembly"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"
   alt="Angular"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=NestJS&logoColor=white"
   alt="Amazon AWS"
@@ -87,10 +86,6 @@
 <img
   src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
   alt="Svelte"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=Sentry&logoColor=white"
-  alt="Sentry"
 />&nbsp;
 
 <img
@@ -111,6 +106,10 @@
 />&nbsp;
 
 <img
+  src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=Sentry&logoColor=white"
+  alt="Sentry"
+/>&nbsp;
+<img
   src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"
   alt="Redis"
 />&nbsp;
@@ -126,7 +125,20 @@
   src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"
   alt="CircleCI"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=Ember.js&logoColor=white"
   alt="Ember.js"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno.js&logoColor=white"
+  alt="Deno"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Ant%20Design.js-E04E39?style=flat-square&logo=Ant%20Design&logoColor=white"
+  alt="Ant Design"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron.js&logoColor=white"
+  alt="Electron"
 />&nbsp;
