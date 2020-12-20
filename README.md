@@ -131,7 +131,7 @@
   alt="Ember.js"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno.js&logoColor=white"
+  src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"
   alt="Deno"
 />&nbsp;
 <img
@@ -139,6 +139,6 @@
   alt="Ant Design"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron.js&logoColor=white"
+  src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"
   alt="Electron"
 />&nbsp;
