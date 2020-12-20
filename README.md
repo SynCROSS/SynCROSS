@@ -142,3 +142,7 @@
   src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"
   alt="Electron"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"
+  alt="Netlify"
+/>&nbsp;
