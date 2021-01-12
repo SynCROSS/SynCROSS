@@ -50,7 +50,6 @@
   src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"
   alt="Jenkins"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"
   alt="NestJS"
@@ -59,6 +58,11 @@
   src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"
   alt="gulp"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
+  alt="Vercel"
+/>&nbsp;
+
 <img
   src="https://img.shields.io/badge/Polymer%20Project-FF4470?style=flat-square&logo=Polymer%20Project&logoColor=white"
   alt="Polymer Project"
@@ -146,9 +150,4 @@
 <img
   src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"
   alt="Netlify"
-/>&nbsp;
-
-<img
-  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
-  alt="Vercel"
 />&nbsp;
