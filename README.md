@@ -58,10 +58,6 @@
   src="https://img.shields.io/badge/gulp-CF4647?style=flat-square&logo=gulp&logoColor=white"
   alt="gulp"
 />&nbsp;
-<img
-  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
-  alt="Vercel"
-/>&nbsp;
 
 <img
   src="https://img.shields.io/badge/Polymer%20Project-FF4470?style=flat-square&logo=Polymer%20Project&logoColor=white"
@@ -71,6 +67,11 @@
   src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"
   alt="WebAssembly"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
+  alt="Vercel"
+/>&nbsp;
+
 
 <img
   src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"
