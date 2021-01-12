@@ -31,8 +31,6 @@
   alt="Python"
 />&nbsp;
 
-# List of interests
-
 <img
   src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"
   alt="GraphQL"
@@ -41,6 +39,9 @@
   src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"
   alt="Apollo GraphQL"
 />&nbsp;
+
+# List of interests
+
 <img
   src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white"
   alt="Gatsby"
