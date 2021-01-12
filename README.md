@@ -39,6 +39,10 @@
   src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=flat-square&logo=Apollo%20GraphQL&logoColor=white"
   alt="Apollo GraphQL"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
+  alt="Next.js"
+/>&nbsp;
 
 # List of interests
 
@@ -84,10 +88,6 @@
 <img
   src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"
   alt="PostgreSQL"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
-  alt="Next.js"
 />&nbsp;
 
 <img
