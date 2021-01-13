@@ -43,6 +43,10 @@
   src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"
   alt="Next.js"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
+  alt="Vercel"
+/>&nbsp;
 
 # List of interests
 
@@ -72,15 +76,10 @@
   alt="WebAssembly"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
-  alt="Vercel"
-/>&nbsp;
-
-
-<img
   src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"
   alt="Angular"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=NestJS&logoColor=white"
   alt="Amazon AWS"
@@ -89,7 +88,6 @@
   src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"
   alt="PostgreSQL"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
   alt="Svelte"
@@ -98,6 +96,7 @@
   src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"
   alt="NGINX"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"
   alt="Docker"
@@ -110,7 +109,6 @@
   src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"
   alt="Cassandra"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=Sentry&logoColor=white"
   alt="Sentry"
@@ -119,6 +117,7 @@
   src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"
   alt="Redis"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"
   alt="Ruby"
@@ -131,7 +130,6 @@
   src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=CircleCI&logoColor=white"
   alt="CircleCI"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=Ember.js&logoColor=white"
   alt="Ember.js"
@@ -140,6 +138,7 @@
   src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"
   alt="Deno"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Ant%20Design.js-E04E39?style=flat-square&logo=Ant%20Design&logoColor=white"
   alt="Ant Design"
