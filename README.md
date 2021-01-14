@@ -96,6 +96,10 @@
   src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"
   alt="NGINX"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"
+  alt="Redis"
+/>&nbsp;
 
 <img
   src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"
@@ -112,10 +116,6 @@
 <img
   src="https://img.shields.io/badge/Sentry-FB4226?style=flat-square&logo=Sentry&logoColor=white"
   alt="Sentry"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"
-  alt="Redis"
 />&nbsp;
 
 <img
@@ -134,10 +134,6 @@
   src="https://img.shields.io/badge/Ember.js-E04E39?style=flat-square&logo=Ember.js&logoColor=white"
   alt="Ember.js"
 />&nbsp;
-<img
-  src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"
-  alt="Deno"
-/>&nbsp;
 
 <img
   src="https://img.shields.io/badge/Ant%20Design.js-E04E39?style=flat-square&logo=Ant%20Design&logoColor=white"
@@ -150,4 +146,8 @@
 <img
   src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"
   alt="Netlify"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=Deno&logoColor=white"
+  alt="Deno"
 />&nbsp;
