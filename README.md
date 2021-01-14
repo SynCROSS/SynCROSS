@@ -47,6 +47,10 @@
   src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"
   alt="Vercel"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
+  alt="Svelte"
+/>&nbsp;
 
 # List of interests
 
@@ -87,10 +91,6 @@
 <img
   src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"
   alt="PostgreSQL"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"
-  alt="Svelte"
 />&nbsp;
 <img
   src="https://img.shields.io/badge/NGINX-269539?style=flat-square&logo=NGINX&logoColor=white"
