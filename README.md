@@ -13,9 +13,8 @@
   alt="MongoDB"
 />&nbsp;
 <img
-  src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67"
+  src="https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg&logoColor=white"
   alt="express"
-  height="28"
 />&nbsp;
 <img
   src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"
