@@ -87,7 +87,9 @@
 <img
   src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white"
   alt="Svelte"
-/>&nbsp; # List of interests
+/>&nbsp; 
+
+# List of interests
 
 <img
   src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=Gatsby&logoColor=white"
