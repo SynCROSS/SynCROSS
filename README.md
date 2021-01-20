@@ -187,3 +187,25 @@
   src="https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=Deno&logoColor=white"
   alt="Deno"
 />&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white"
+  alt="Capacitor"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Testing%20Library-E33332?style=for-the-badge&logo=Testing%20Library&logoColor=white"
+  alt="Testing Library"
+/>&nbsp;
+<img
+src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?style=for-the-badge&logo=Apache%20Cordova&logoColor=white"
+alt="Apache Cordova"
+/>&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"
+  alt="Flutter"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white"
+  alt="Microsoft Azure"
+/>&nbsp;
