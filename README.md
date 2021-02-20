@@ -97,6 +97,15 @@
   alt="Redis"
 />&nbsp;
 <img
+  src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"
+  alt="NestJS"
+/>&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white"
+  alt="Angular"
+/>&nbsp;
+<img
   src="https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABcAAAAcCAQAAAAg5OzoAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA%2F4ePzL8AAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAHdElNRQflARYEFR2R9SNzAAABzUlEQVQ4y43TX2iNcRgH8M92YsYyyp8wqVlDudCkZEWkkZULLqRQaq5cIHYhRW6UmpI7FO3KLqY0a%2F7UbrYSKWsXoplMs8ykdMbOdrb1c3HOjvecnf15rt7f83x6e9%2Fn%2Fb7kq1oDum01r1qpUxDcmh%2B%2FLAiCrzbPjat8E8S1GnN9LrzII0HQpVyHXhtm58clBEETTptwcTZc5l36ua9glS7dVs%2FMb6Rx0mFwzoS6mXC1oTQftAWs1%2BOVZflwiZY0Dt4oTXevGncsHz9jPMMbFaS7lfq9sCQXb%2FQhg0PWPhqMOpSNY%2B5E8KgDkdk2PzVbGOU1fkd4v4rIrNA9w3b%2FbyzXHsFBp5KcjcU9EJs6njeZxe%2FmvNcCTX7ZnjpU%2BZyFg7PTtlYj4XbqsiUH%2F7V3Gi%2FWZiAV55Ec%2FiVvCo9KpuL8JIe3K87DS3X4pCLmvX1WRAatnubhY4ITRqBOMnL3mRJYrs93WKw5g%2BN2TYNL7XDBc5P6p5bZn%2BY91mZYgTUOuum1uKRejfZPjS6lP1WrGIpsckqjHmOGvdWg1jqF0SC8FASPVav3zA%2FjBrWptzOT%2FazaY0iQ9EfCRw%2BdVKnIjFXgmoQ%2B9x1Rlvk9cuofI2%2FTwyUo4%2FsAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDEtMjJUMDQ6MTY6NTQrMDA6MDAvTNioAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAxLTIyVDA0OjE2OjU0KzAwOjAwXhFgFAAAAABJRU5ErkJggg%3D%3D"
   alt="Prisma"
 />&nbsp;
@@ -112,10 +121,6 @@
   alt="Jenkins"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"
-  alt="NestJS"
-/>&nbsp;
-<img
   src="https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"
   alt="gulp"
 />&nbsp;
@@ -127,10 +132,6 @@
 <img
   src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"
   alt="WebAssembly"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white"
-  alt="Angular"
 />&nbsp;
 
 <img
