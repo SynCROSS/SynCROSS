@@ -128,6 +128,10 @@
   src="https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"
   alt="gulp"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"
+  alt="Flutter"
+/>&nbsp;
 
 <img
   src="https://img.shields.io/badge/Polymer%20Project-FF4470?style=for-the-badge&logo=Polymer%20Project&logoColor=white"
@@ -213,9 +217,4 @@
 <img
 src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?style=for-the-badge&logo=Apache%20Cordova&logoColor=white"
 alt="Apache Cordova"
-/>&nbsp;
-
-<img
-  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"
-  alt="Flutter"
 />&nbsp;
