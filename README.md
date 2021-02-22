@@ -132,6 +132,10 @@
   src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"
   alt="Flutter"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"
+  alt="Kubernetes"
+/>&nbsp;
 
 <img
   src="https://img.shields.io/badge/Polymer%20Project-FF4470?style=for-the-badge&logo=Polymer%20Project&logoColor=white"
@@ -140,6 +144,10 @@
 <img
   src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"
   alt="WebAssembly"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"
+  alt="Rust"
 />&nbsp;
 
 <img
