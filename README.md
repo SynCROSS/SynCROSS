@@ -13,7 +13,7 @@
   alt="MongoDB"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/express-ffffff?style=for-the-badge&logo=https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg&logoColor=white"
+  src="https://img.shields.io/badge/express-ffffff?style=for-the-badge"
   alt="express"
 />&nbsp;
 <img
