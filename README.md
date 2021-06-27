@@ -114,7 +114,7 @@
   alt="Gatsby"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/puppeteer-ffffff?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABIAAAAbCAYAAABxwd%2BfAAAEEElEQVR42oSTA3BlWRRF130vTn6c37bdsW3btm2UxrZt27Zdtse2Z%2B6cfI57Ve3Hs%2Fc1NnZuANPYQnBACRBBdhQ2Qi24WBeGjZp025vUlgIb1CYrdj69F7w9q6XgTS6c%2BJq%2BkifZtq4BCCJuLy7i9iEEs2tjG0Plz3PR5NfieVm8xSpqNwKK3RsvoTVPc3Kv5r4TNdcs%2FEBb%2FmNsCK8FLIjkuY62vCe4fvlHHjlNq9MHtFmbqY1N1jPWaw3UZoA1ZBsJ%2By%2BiLOkbugo1p%2FZp7j9Zc%2Bn0d9RlPmrTZdPf2wLOHNJmS672SD%2F6lbF386UqyH%2BTsX8rSBeR7iEUyX2J9COnSeCHVKRoHpCwd66w68FTtCpJWg14zzyy8wQ8zFGgTu4YtqEpnDSKSvH3yaIoYXW%2BNE%2Bc%2BTvSA84a1jx%2Bxu%2BcMajJiX4RH68UIEPUyd%2FwlYATyIx8VQI%2B5bEztLp4Uptt%2BdqM3fs5mUc%2FlwnWMjzNo6drzh39mLTDz%2BLrfQrgjQMDi%2B%2BJNGZ%2Fx%2F0naXXFrDa6irSZHf2FeWTH9So0MI21oWmkHLqe6rQvGKvWXLeoufcELcP%2FVnq36A7aueFkWcqfVFmSNnOivzaP7rxNhQVlA14qPMi5h7xYH5Yjc3i31H6rypKlNuYnY334CjZMAyGcIP87VHjwtWIsBnyVmP%2FBjvUI%2FqwPr1IRwVcpP59HgM0oXOwXXSWyqLWOAKX4B4ZynQRbINwlynHUK4RR0c0IiYmJpKam%2Fq8SEhIQlMNzvGEYCARZLJZ7165d%2B2BcXFxZdHR0WWRk5DF19MjRCqvVendAQMADgJWYmJjqk086%2BatLLr7kV9Ef%2Brl2zdqfO3fs%2FLlj%2Bw5i8J%2BpU6Z%2BMjAwCGWwtgJwSgaa6gRRGJ%2FH%2Bmd7hYrC%2FxEiUKZAEVC9QLgbcAMFBZJtlaqUUFWCSoUU4t5A4c7sd%2Bd0WbC5e3f5Zsw632%2FmnHM0rg6yVCpBf9NRq9Vgtky0jNavMk0T5fey9P3zcaZpGq9Wq3I4HGIwGKDf76PX67kSxVcqFUkMFgwG%2BfF4lPD4kZcYLBAI8P1%2B7xlE3ieIls1mI2%2B3G4QQnkD0GBYOh3mn05GZTAb1eh3n8xnL5RKr1Qrz%2BRzqkudZxaDb7WKxWNj%2F1us1xchQKMRZJBLhzWZTFgoF6LqOfD6PVCqFdDpt79FoFLlcDtlsFrFYDIlEAvF4HMVikYA%2FIFrULfJ6veJyuaDdboNGwTCM5z6bzTAej7HdbjGdTjEajciMyWSC0%2Blkp%2BZY7Pv9Dsuy8Hg8%2FlZsl12znKS8gh5DoKSLObJe6XA4UGpJ5vf7%2Fzcajc%2FdbidVN8QLfTlJ1U0o7wcx2PdYWFh4zc3NQ93d3fPd3NzySMEgPSC9IDMAgXPOc3sxjesAAAAASUVORK5CYII%3D"
+  src="https://img.shields.io/badge/puppeteer-ffffff?style=for-the-badge&logo=Puppeteer&logoColor=#40B5A4"
   alt="Puppeteer"
 />&nbsp;
 
@@ -225,4 +225,13 @@
 <img
 src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?style=for-the-badge&logo=Apache%20Cordova&logoColor=white"
 alt="Apache Cordova"
+/>&nbsp;
+
+<img
+src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"
+alt="Spring Boot"
+/>&nbsp;
+<img
+src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"
+alt="Kotlin"
 />&nbsp;
