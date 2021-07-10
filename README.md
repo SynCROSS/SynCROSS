@@ -239,3 +239,7 @@ alt="Kotlin"
 src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white"
 alt="Ansible"
 />&nbsp;
+<img
+src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=Elm&logoColor=white"
+alt="Ansible"
+/>&nbsp;
