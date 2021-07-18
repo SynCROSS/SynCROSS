@@ -241,5 +241,10 @@ alt="Ansible"
 />&nbsp;
 <img
 src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=Elm&logoColor=white"
-alt="Ansible"
+alt="Elm"
+/>&nbsp;
+
+<img
+  src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"
+  alt="MariaDB"
 />&nbsp;
