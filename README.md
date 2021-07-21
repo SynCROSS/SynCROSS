@@ -155,8 +155,8 @@
   alt="Amazon AWS"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"
-  alt="PostgreSQL"
+  src="https://img.shields.io/badge/Postgre%20SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"
+  alt="Postgre SQL"
 />&nbsp;
 <img
   src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white"
