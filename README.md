@@ -118,7 +118,7 @@
   alt="Puppeteer"
 />&nbsp;
 
-# List of interests
+# List of Interesting Technology
 
 <img
   src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"
