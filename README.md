@@ -223,7 +223,7 @@
   alt="Testing Library"
 />&nbsp;
 <img
-src="https://img.shields.io/badge/Apache%20Cordova-E8E8E8?style=for-the-badge&logo=Apache%20Cordova&logoColor=white"
+src="https://img.shields.io/badge/Apache%20Cordova-000000?style=for-the-badge&logo=Apache%20Cordova&logoColor=E8E8E8"
 alt="Apache Cordova"
 />&nbsp;
 
