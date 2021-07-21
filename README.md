@@ -114,7 +114,7 @@
   alt="Gatsby"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/puppeteer-ffffff?style=for-the-badge&logo=Puppeteer&logoColor=#40B5A4"
+  src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"
   alt="Puppeteer"
 />&nbsp;
 
