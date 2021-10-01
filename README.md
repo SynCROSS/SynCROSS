@@ -102,6 +102,23 @@
 />&nbsp;
 
 <img
+  src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"
+  alt="MariaDB"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"
+  alt="Rust"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white"
+  alt="NGINX"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
+  alt="Docker"
+/>&nbsp;
+
+<img
   src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white"
   alt="Angular"
 />&nbsp;
@@ -118,12 +135,21 @@
   alt="Puppeteer"
 />&nbsp;
 
-# List of Interests ( Not Yet Learned )
-
+<img
+src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"
+alt="Spring Boot"
+/>&nbsp;
 <img
   src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"
   alt="Jenkins"
 />&nbsp;
+<img
+  src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=NestJS&logoColor=white"
+  alt="Amazon AWS"
+/>&nbsp;
+
+# List of Interests ( Not Yet Learned )
+
 <img
   src="https://img.shields.io/badge/gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"
   alt="gulp"
@@ -136,6 +162,10 @@
   src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"
   alt="Kubernetes"
 />&nbsp;
+<img
+src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"
+alt="Kotlin"
+/>&nbsp;
 
 <img
   src="https://img.shields.io/badge/Polymer%20Project-FF4470?style=for-the-badge&logo=Polymer%20Project&logoColor=white"
@@ -146,26 +176,13 @@
   alt="WebAssembly"
 />&nbsp;
 <img
-  src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"
-  alt="Rust"
+  src="https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"
+  alt="Strapi"
 />&nbsp;
 
-<img
-  src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=NestJS&logoColor=white"
-  alt="Amazon AWS"
-/>&nbsp;
 <img
   src="https://img.shields.io/badge/Postgre%20SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"
   alt="Postgre SQL"
-/>&nbsp;
-<img
-  src="https://img.shields.io/badge/NGINX-269539?style=for-the-badge&logo=NGINX&logoColor=white"
-  alt="NGINX"
-/>&nbsp;
-
-<img
-  src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
-  alt="Docker"
 />&nbsp;
 <img
   src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"
@@ -223,28 +240,10 @@
   alt="Testing Library"
 />&nbsp;
 <img
-src="https://img.shields.io/badge/Apache%20Cordova-000000?style=for-the-badge&logo=Apache%20Cordova&logoColor=E8E8E8"
-alt="Apache Cordova"
-/>&nbsp;
-
-<img
-src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"
-alt="Spring Boot"
-/>&nbsp;
-<img
-src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"
-alt="Kotlin"
-/>&nbsp;
-<img
 src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=Ansible&logoColor=white"
 alt="Ansible"
 />&nbsp;
 <img
 src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=Elm&logoColor=white"
 alt="Elm"
-/>&nbsp;
-
-<img
-  src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"
-  alt="MariaDB"
 />&nbsp;
