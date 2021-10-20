@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=SynCROSS&fontSize=90)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSynCROSS&count_bg=%2324292E&title_bg=%2324292E&icon=github.svg&icon_color=%23FFFFFF&title=Watch&edge_flat=true)](https://hits.seeyoufarm.com)
+![SynCROSS's GitHub stats](https://github-readme-stats.vercel.app/api?username=SynCROSS&show_icons=true&theme=react&hide_border=true)
+
 
 # Tech Stack ( Including What I'm Still Learning. )
 
