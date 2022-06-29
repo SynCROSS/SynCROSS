@@ -118,11 +118,11 @@
   src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"
   alt="Docker"
 />&nbsp;
-
 <img
   src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white"
   alt="Angular"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white"
   alt="Prisma"
@@ -135,11 +135,11 @@
   src="https://img.shields.io/badge/puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white"
   alt="Puppeteer"
 />&nbsp;
-
 <img
 src="https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white"
 alt="Spring Boot"
 />&nbsp;
+
 <img
   src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"
   alt="Jenkins"
@@ -147,6 +147,10 @@ alt="Spring Boot"
 <img
   src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=NestJS&logoColor=white"
   alt="Amazon AWS"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Postgre%20SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"
+  alt="Postgre SQL"
 />&nbsp;
 
 # List of Interests ( Not Yet Learned )
@@ -181,10 +185,6 @@ alt="Kotlin"
   alt="Strapi"
 />&nbsp;
 
-<img
-  src="https://img.shields.io/badge/Postgre%20SQL-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white"
-  alt="Postgre SQL"
-/>&nbsp;
 <img
   src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"
   alt="Django"
