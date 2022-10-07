@@ -248,3 +248,16 @@ alt="Ansible"
 src="https://img.shields.io/badge/Elm-1293D8?style=for-the-badge&logo=Elm&logoColor=white"
 alt="Elm"
 />&nbsp;
+
+<img
+  src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=Bun&logoColor=white"
+  alt="Bun"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/Timescale-FDB515?style=for-the-badge&logo=Timescale&logoColor=white"
+  alt="Timescale"
+/>&nbsp;
+<img
+  src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=SurrealDB&logoColor=white"
+  alt="SurrealDB"
+/>&nbsp;
